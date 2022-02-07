@@ -7,4 +7,11 @@ print('dizi biti')
 print('Devami yarin')
 print('cumartesi aksami')
 print(5+2)
+def topla(x,y):
+    suma=x+y
+    return suma
+
+
+suma=topla(3,6)
+print(suma)
 
