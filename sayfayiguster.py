@@ -15,3 +15,4 @@ def topla(x,y):
 suma=topla(3,6)
 print(suma)
 print('denemeye devam')
+print('denemenin devami')
